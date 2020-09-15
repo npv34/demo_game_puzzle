@@ -1,0 +1,11 @@
+image {
+    width: 100%;
+}
+
+.item-image {
+    width: 600px;
+}
+
+.item-image  img {
+    width: 100%;
+}
